@@ -2,11 +2,15 @@ FROM node:18-alpine
 
 WORKDIR /app
 
-COPY package*.json ./
+# Copy CSVs from root context
+COPY *.csv ./
+COPY *.xlsx ./
 
+# Setup server
+WORKDIR /app/server
+COPY server/package*.json ./
 RUN npm install
-
-COPY . .
+COPY server/ .
 
 EXPOSE 3001
 
