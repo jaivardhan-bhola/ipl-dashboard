@@ -22,7 +22,7 @@ const AdminControls = () => {
         e.preventDefault();
         try {
             // Verify Password
-            const res = await fetch('http://localhost:3001/api/auth/verify', {
+            const res = await fetch('/api/auth/verify', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ password })
@@ -32,17 +32,17 @@ const AdminControls = () => {
             if (data.success) {
                 // Execute Action
                 if (pendingAction === 'RESET') {
-                    await fetch('http://localhost:3001/api/admin/reset', { method: 'POST' });
+                    await fetch('/api/admin/reset', { method: 'POST' });
                     window.location.reload(); // Hard reload to clear everything
                 } else if (pendingAction === 'PAUSE') {
-                    await fetch('http://localhost:3001/api/admin/status', {
+                    await fetch('/api/admin/status', {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify({ status: 'PAUSED' })
                     });
                     dispatch({ type: 'SET_STATUS', payload: 'PAUSED' });
                 } else if (pendingAction === 'PLAY') {
-                    await fetch('http://localhost:3001/api/admin/status', {
+                    await fetch('/api/admin/status', {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify({ status: 'LIVE' })

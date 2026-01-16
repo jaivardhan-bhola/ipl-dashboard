@@ -130,7 +130,7 @@ export const AuctionProvider = ({ children }) => {
     React.useEffect(() => {
         const fetchState = async () => {
             try {
-                const res = await fetch('http://localhost:3001/api/state');
+                const res = await fetch('/api/state');
                 const data = await res.json();
                 if (data) {
                     dispatch({ type: 'INIT_STATE', payload: data });
@@ -211,7 +211,7 @@ export const AuctionProvider = ({ children }) => {
         if (state.teams === TEAMS && state.players === PLAYERS) return; // Don't sync initial mock
 
         const timer = setTimeout(() => {
-            fetch('http://localhost:3001/api/state/sync', {
+            fetch('/api/state/sync', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ teams: state.teams, players: state.players })
@@ -239,7 +239,7 @@ export const AuctionProvider = ({ children }) => {
         dispatch({ type: 'SELECT_MY_TEAM', payload: teamId });
 
         try {
-            await fetch('http://localhost:3001/api/select-team', {
+            await fetch('/api/select-team', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ teamId })
