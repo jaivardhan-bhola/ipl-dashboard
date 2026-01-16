@@ -1,0 +1,16 @@
+services:
+  backend:
+    build: ./server
+    ports:
+      - "8888:3001"
+    environment:
+      - PORT=3001
+
+  frontend:
+    build: .
+    ports:
+      - "7777:7777"
+    environment:
+      - VITE_BACKEND_URL=http://backend:3001
+    depends_on:
+      - backend
