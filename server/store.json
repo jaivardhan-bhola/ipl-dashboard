@@ -1,0 +1,3295 @@
+{
+  "settings": {
+    "password": "$2a$10$x8n/mNNBube8gTDy38/7Du3n1v15hAF/d8DqBkc.SMWLLc8LoUqYC",
+    "status": "LIVE",
+    "myTeamId": "KKR"
+  },
+  "teams": [
+    {
+      "id": "CSK",
+      "name": "Chennai Super Kings",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    },
+    {
+      "id": "MI",
+      "name": "Mumbai Indians",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    },
+    {
+      "id": "RCB",
+      "name": "Royal Challengers Bengaluru",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    },
+    {
+      "id": "KKR",
+      "name": "Kolkata Knight Riders",
+      "budget": 618000000,
+      "rtmAvailable": true,
+      "squad": [
+        {
+          "id": "Noor Ahmad_6_0daa9",
+          "name": "Noor Ahmad",
+          "category": "Bowler",
+          "country": "Overseas",
+          "basePrice": 20000000,
+          "isUncapped": false,
+          "status": "Available",
+          "rating": 85,
+          "soldTo": null,
+          "soldPrice": 82000000,
+          "originalRole": "Bowler",
+          "auctionSet": "Overseas Bowler",
+          "stats": {
+            "battingScore": 0,
+            "bowlingScore": 364.8575,
+            "allrounderScore": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "SRH",
+      "name": "Sunrisers Hyderabad",
+      "budget": 678000000,
+      "rtmAvailable": true,
+      "squad": [
+        {
+          "id": "Yuzvendra Chahal_7_i5cnt",
+          "name": "Yuzvendra Chahal",
+          "category": "Bowler",
+          "country": "India",
+          "basePrice": 20000000,
+          "isUncapped": false,
+          "status": "Available",
+          "rating": 85,
+          "soldTo": null,
+          "soldPrice": 22000000,
+          "originalRole": "Bowler",
+          "auctionSet": "Indian Bowler",
+          "stats": {
+            "battingScore": 0,
+            "bowlingScore": 364.43,
+            "allrounderScore": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "RR",
+      "name": "Rajasthan Royals",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    },
+    {
+      "id": "DC",
+      "name": "Delhi Capitals",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    },
+    {
+      "id": "PBKS",
+      "name": "Punjab Kings",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    },
+    {
+      "id": "LSG",
+      "name": "Lucknow Super Giants",
+      "budget": 678000000,
+      "rtmAvailable": true,
+      "squad": [
+        {
+          "id": "Prabhsimran Singh_7_cf2ew",
+          "name": "Prabhsimran Singh",
+          "category": "Wicket-Keeper",
+          "country": "India",
+          "basePrice": 20000000,
+          "isUncapped": true,
+          "status": "Available",
+          "rating": 85,
+          "soldTo": null,
+          "soldPrice": 22000000,
+          "originalRole": "Wicket Keeper",
+          "auctionSet": "Uncapped Indian",
+          "stats": {
+            "battingScore": 214.85249999999996,
+            "bowlingScore": 0,
+            "allrounderScore": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "GT",
+      "name": "Gujarat Titans",
+      "budget": 700000000,
+      "rtmAvailable": true,
+      "squad": []
+    }
+  ],
+  "players": [
+    {
+      "id": "Virat Kohli_0_inc85",
+      "name": "Virat Kohli",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 328.934125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Shubman Gill_1_6338a",
+      "name": "Shubman Gill",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 286.29637499999995,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Sai Sudharsan_2_hamfv",
+      "name": "Sai Sudharsan",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 269.3645,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Yashasvi Jaiswal_3_apyjz",
+      "name": "Yashasvi Jaiswal",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 265.214,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Nicholas Pooran_4_9w897",
+      "name": "Nicholas Pooran",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 242.43149999999997,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Heinrich Klaasen_5_99ixs",
+      "name": "Heinrich Klaasen",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 238.3585,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Jos Buttler_6_1eyfa",
+      "name": "Jos Buttler",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 228.0345,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Prabhsimran Singh_7_cf2ew",
+      "name": "Prabhsimran Singh",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Sold",
+      "rating": 85,
+      "soldTo": "LSG",
+      "soldPrice": 22000000,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 214.85249999999996,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ruturaj Gaikwad_8_xt5d9",
+      "name": "Ruturaj Gaikwad",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 196.19125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Sanju Samson_9_k4f2q",
+      "name": "Sanju Samson",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 192.222,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Shreyas Iyer_10_img7e",
+      "name": "Shreyas Iyer",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 187.782,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ishan Kishan_11_ff7g8",
+      "name": "Ishan Kishan",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 184.71825,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rohit Sharma_12_ye3ss",
+      "name": "Rohit Sharma",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 182.851625,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Tilak Varma_13_n4z4f",
+      "name": "Tilak Varma",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 177.625125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Travis Head_14_an8y8",
+      "name": "Travis Head",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 173.392875,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Aiden Markram_15_g40hq",
+      "name": "Aiden Markram",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 169.912875,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ajinkya Rahane_16_x1dy4",
+      "name": "Ajinkya Rahane",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 164.9595,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Phil Salt_17_ei541",
+      "name": "Phil Salt",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 164.33925,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rinku Singh_18_o7222",
+      "name": "Rinku Singh",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 142.76475,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Tristan Stubbs_19_k1k6z",
+      "name": "Tristan Stubbs",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 140.40125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Dhruv Jurel_20_001kw",
+      "name": "Dhruv Jurel",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 139.824875,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rajat Patidar_21_xkidz",
+      "name": "Rajat Patidar",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 137.05237499999998,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Jitesh Sharma_22_dnnns",
+      "name": "Jitesh Sharma",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 134.81125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Abhishek Porel_23_3oktw",
+      "name": "Abhishek Porel",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 130.80325,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Tim David_24_ehc7o",
+      "name": "Tim David",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 129.97075,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Suryakumar Yadav_25_k06e3",
+      "name": "Suryakumar Yadav",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 125.559625,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Nitish Rana_26_dw75g",
+      "name": "Nitish Rana",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 125.269125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Shimron Hetmyer_27_pyta3",
+      "name": "Shimron Hetmyer",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 123.80875,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "David Miller_28_wrnt6",
+      "name": "David Miller",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 113.244625,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "MS Dhoni_29_l0aam",
+      "name": "MS Dhoni",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 110.456125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Devon Conway_30_mo0ys",
+      "name": "Devon Conway",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 108.787,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Devdutt Padikkal_31_qg9lg",
+      "name": "Devdutt Padikkal",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 108.331,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Priyansh Arya_32_dcc5z",
+      "name": "Priyansh Arya",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 107.12025,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Angkrish Raghuvanshi_33_0rh6y",
+      "name": "Angkrish Raghuvanshi",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 100.95075,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "David Warner_34_ia06z",
+      "name": "David Warner",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 93.975625,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ryan Rickelton_35_j5jwq",
+      "name": "Ryan Rickelton",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 88.20225,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Faf du Plessis_36_3r39v",
+      "name": "Faf du Plessis",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 86.989375,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Jonny Bairstow_37_a4uzw",
+      "name": "Jonny Bairstow",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 86.94299999999998,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mayank Agarwal_38_1eldm",
+      "name": "Mayank Agarwal",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 86.162875,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Dewald Brevis_39_uhyo8",
+      "name": "Dewald Brevis",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 82.14675,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rishabh Pant_40_n9r4n",
+      "name": "Rishabh Pant",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 78.50325000000001,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Shikhar Dhawan_41_q6qtz",
+      "name": "Shikhar Dhawan",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 77.07012499999999,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Dinesh Karthik_42_qgmg0",
+      "name": "Dinesh Karthik",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 76.61275,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Manish Pandey_43_beryb",
+      "name": "Manish Pandey",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 76.51875,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Vaibhav Suryavanshi_44_l9w8t",
+      "name": "Vaibhav Suryavanshi",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 73.72687499999999,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rilee Rossouw_45_xw180",
+      "name": "Rilee Rossouw",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 69.94337499999999,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ayush Mhatre_46_ntwlz",
+      "name": "Ayush Mhatre",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 65.16675000000001,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Wriddhiman Saha_47_496kr",
+      "name": "Wriddhiman Saha",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 60.14149999999999,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Karun Nair_48_p11dv",
+      "name": "Karun Nair",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 55.5885,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Shashank Singh_49_sqn3f",
+      "name": "Shashank Singh",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 55.538374999999995,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Abhinav Manohar_50_yfks8",
+      "name": "Abhinav Manohar",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 47.478125,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "KL Rahul_51_st8fq",
+      "name": "KL Rahul",
+      "category": "Wicket-Keeper",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Indian Wicketkeeper",
+      "stats": {
+        "battingScore": 35.691874999999996,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Quinton de Kock_52_fsolp",
+      "name": "Quinton de Kock",
+      "category": "Wicket-Keeper",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Wicket Keeper",
+      "auctionSet": "Overseas Wicketkeeper",
+      "stats": {
+        "battingScore": 24.759375,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Glenn Phillips_53_tkxbx",
+      "name": "Glenn Phillips",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 14.979375,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Sarfaraz Khan_54_3cd5a",
+      "name": "Sarfaraz Khan",
+      "category": "Batsman",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Indian Batter",
+      "stats": {
+        "battingScore": 9.6025,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ben Duckett_55_zz00d",
+      "name": "Ben Duckett",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Jake Fraser-McGurk_56_g38ee",
+      "name": "Jake Fraser-McGurk",
+      "category": "Batsman",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Batter",
+      "auctionSet": "Overseas Batter",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Varun Chakravarthy_0_xuwyt",
+      "name": "Varun Chakravarthy",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 419.0925,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Jasprit Bumrah_1_rygxu",
+      "name": "Jasprit Bumrah",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 417.3575,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Prasidh Krishna_2_gsp65",
+      "name": "Prasidh Krishna",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 407.615,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Arshdeep Singh_3_wc7m8",
+      "name": "Arshdeep Singh",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 385.11,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Trent Boult_4_3vc46",
+      "name": "Trent Boult",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 379.11,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mohammed Shami_5_be4mm",
+      "name": "Mohammed Shami",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 367.775,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Noor Ahmad_6_0daa9",
+      "name": "Noor Ahmad",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Sold",
+      "rating": 85,
+      "soldTo": "KKR",
+      "soldPrice": 82000000,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 364.8575,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Yuzvendra Chahal_7_i5cnt",
+      "name": "Yuzvendra Chahal",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Sold",
+      "rating": 85,
+      "soldTo": "SRH",
+      "soldPrice": 22000000,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 364.43,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Harshal Patel_8_bvoxx",
+      "name": "Harshal Patel",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 360.26,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Josh Hazlewood_9_toin3",
+      "name": "Josh Hazlewood",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 348.0575,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Piyush Chawla_10_tsjr8",
+      "name": "Piyush Chawla",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 344.87,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Sai Kishore_11_zs469",
+      "name": "Sai Kishore",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 334.895,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mohammed Siraj_12_ivgwx",
+      "name": "Mohammed Siraj",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 330.52250000000004,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mark Wood_13_2jskg",
+      "name": "Mark Wood",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 326.175,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Kuldeep Yadav_14_gu87i",
+      "name": "Kuldeep Yadav",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 320.125,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Dilshan Madushanka_15_euwna",
+      "name": "Dilshan Madushanka",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 320,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mujeeb Ur Rahman_16_kc7r0",
+      "name": "Mujeeb Ur Rahman",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 320,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Vicky Ostwal_17_rpiuc",
+      "name": "Vicky Ostwal",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 320,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Lungi Ngidi_18_6yylw",
+      "name": "Lungi Ngidi",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 320,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Divgesh Rathi_19_o88q1",
+      "name": "Divgesh Rathi",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 320,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Matheesha Pathirana_20_xqs2r",
+      "name": "Matheesha Pathirana",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 317.91499999999996,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mitchell Starc_21_91qzy",
+      "name": "Mitchell Starc",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 315.46999999999997,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "T Natarajan_22_ktvec",
+      "name": "T Natarajan",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 305.12,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Harshit Rana_23_845r1",
+      "name": "Harshit Rana",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 296.66499999999996,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Naveen-ul-Haq_24_wc95a",
+      "name": "Naveen-ul-Haq",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 295.075,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Khaleel Ahmed_25_zbt8v",
+      "name": "Khaleel Ahmed",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 285.79,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Bhuvneshwar Kumar_26_iktwr",
+      "name": "Bhuvneshwar Kumar",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 283.8175,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Tushar Deshpande_27_6dwpx",
+      "name": "Tushar Deshpande",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 282.715,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Keshav Maharaj_28_90xor",
+      "name": "Keshav Maharaj",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 280.25,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Fazalhaq Farooqi_29_b5mda",
+      "name": "Fazalhaq Farooqi",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 276.5125,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Vaibhav Arora_30_r6qrm",
+      "name": "Vaibhav Arora",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 276.0675,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Shreyas Gopal_31_y5q80",
+      "name": "Shreyas Gopal",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 271.295,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "David Willey_32_vagjk",
+      "name": "David Willey",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 270,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mayank Markande_33_4k88v",
+      "name": "Mayank Markande",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 266.16,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Avesh Khan_34_h0y49",
+      "name": "Avesh Khan",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 253.79,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rahul Chahar_35_hzweo",
+      "name": "Rahul Chahar",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 246.625,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Amit Mishra_36_akczu",
+      "name": "Amit Mishra",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 244.5375,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Harpreet Brar_37_5sz0v",
+      "name": "Harpreet Brar",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 232.01,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Rashid Khan_38_kwfb8",
+      "name": "Rashid Khan",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 228.0225,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Karn Sharma_39_coapk",
+      "name": "Karn Sharma",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 216.775,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Sandeep Sharma_40_joh29",
+      "name": "Sandeep Sharma",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 210.5525,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ravi Bishnoi_41_tk8zn",
+      "name": "Ravi Bishnoi",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 205.4175,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mohsin Khan_42_uco8p",
+      "name": "Mohsin Khan",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 202.835,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Deepak Chahar_43_klbrj",
+      "name": "Deepak Chahar",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 198.835,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Adam Zampa_44_wvlff",
+      "name": "Adam Zampa",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 154.125,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Yash Dayal_45_5w2vo",
+      "name": "Yash Dayal",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 152.33749999999998,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Ishant Sharma_46_bmdbg",
+      "name": "Ishant Sharma",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 148.3475,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Jofra Archer_47_az54t",
+      "name": "Jofra Archer",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 128.48,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Gerald Coetzee_48_akmn1",
+      "name": "Gerald Coetzee",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 125.675,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Aakash Madhwal_49_q7ck2",
+      "name": "Aakash Madhwal",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 113.2025,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Maheesh Theekshana_50_sg0jo",
+      "name": "Maheesh Theekshana",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 105.5725,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Marco Jansen_51_hpdmh",
+      "name": "Marco Jansen",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 88.355,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Lockie Ferguson_52_hareg",
+      "name": "Lockie Ferguson",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 84.28000000000002,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Alzarri Joseph_53_q3hpm",
+      "name": "Alzarri Joseph",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 78.95500000000001,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Kagiso Rabada_54_nclme",
+      "name": "Kagiso Rabada",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 31.019999999999996,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Umesh Yadav_55_wrn5i",
+      "name": "Umesh Yadav",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 29.25,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Mohit Sharma_56_h9qx9",
+      "name": "Mohit Sharma",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": -8.85250000000002,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Anrich Nortje_57_k2u8t",
+      "name": "Anrich Nortje",
+      "category": "Bowler",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Overseas Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": -15.655,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Aakash Deep_58_hc2sx",
+      "name": "Aakash Deep",
+      "category": "Bowler",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "Bowler",
+      "auctionSet": "Indian Bowler",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": -110.3475,
+        "allrounderScore": 0
+      }
+    },
+    {
+      "id": "Romario Shepherd_0_t5q4n",
+      "name": "Romario Shepherd",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 258.3049375
+      }
+    },
+    {
+      "id": "Venkatesh Iyer_1_bsvm1",
+      "name": "Venkatesh Iyer",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 237.0280625
+      }
+    },
+    {
+      "id": "Riyan Parag_2_byttw",
+      "name": "Riyan Parag",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 226.4374375
+      }
+    },
+    {
+      "id": "Shivam Dube_3_7cfgr",
+      "name": "Shivam Dube",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 224.7960625
+      }
+    },
+    {
+      "id": "Sunil Narine_4_am7sq",
+      "name": "Sunil Narine",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 222.2481875
+      }
+    },
+    {
+      "id": "Shardul Thakur_5_ymzd2",
+      "name": "Shardul Thakur",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 221.303125
+      }
+    },
+    {
+      "id": "Ayush Badoni_6_e0bxy",
+      "name": "Ayush Badoni",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 215.6538125
+      }
+    },
+    {
+      "id": "Abdul Samad_7_6g1lq",
+      "name": "Abdul Samad",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 213.383875
+      }
+    },
+    {
+      "id": "Vijay Shankar_8_cl4b5",
+      "name": "Vijay Shankar",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 209.977625
+      }
+    },
+    {
+      "id": "Naman Dhir_9_zzk2v",
+      "name": "Naman Dhir",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 207.508375
+      }
+    },
+    {
+      "id": "Ashutosh Sharma_10_874hw",
+      "name": "Ashutosh Sharma",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 205.820875
+      }
+    },
+    {
+      "id": "Rachin Ravindra_11_itcsc",
+      "name": "Rachin Ravindra",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 204.1811875
+      }
+    },
+    {
+      "id": "Pat Cummins_12_ne2lw",
+      "name": "Pat Cummins",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 196.7633125
+      }
+    },
+    {
+      "id": "Rahul Tewatia_13_5z0ad",
+      "name": "Rahul Tewatia",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 195.2210625
+      }
+    },
+    {
+      "id": "Abhishek Sharma_14_b90az",
+      "name": "Abhishek Sharma",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 191.13075
+      }
+    },
+    {
+      "id": "Andre Russell_15_jepgw",
+      "name": "Andre Russell",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 189.4383125
+      }
+    },
+    {
+      "id": "Ramandeep Singh_16_l7b57",
+      "name": "Ramandeep Singh",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 187.078
+      }
+    },
+    {
+      "id": "Ravindra Jadeja_17_fjk2e",
+      "name": "Ravindra Jadeja",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 181.20475
+      }
+    },
+    {
+      "id": "Deepak Hooda_18_b0y5z",
+      "name": "Deepak Hooda",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 177.2979375
+      }
+    },
+    {
+      "id": "Krunal Pandya_19_569jo",
+      "name": "Krunal Pandya",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 176.6021875
+      }
+    },
+    {
+      "id": "Shahrukh Khan_20_66pnz",
+      "name": "Shahrukh Khan",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 173.623375
+      }
+    },
+    {
+      "id": "Mahipal Lomror_21_gdkih",
+      "name": "Mahipal Lomror",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 172.95
+      }
+    },
+    {
+      "id": "Vipraj Nigam_22_dea8r",
+      "name": "Vipraj Nigam",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 162.6341875
+      }
+    },
+    {
+      "id": "Hardik Pandya_23_coejm",
+      "name": "Hardik Pandya",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 162.434375
+      }
+    },
+    {
+      "id": "Matthew Short_24_vto71",
+      "name": "Matthew Short",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 161.8896875
+      }
+    },
+    {
+      "id": "Ben Cutting_25_kb4nq",
+      "name": "Ben Cutting",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 160
+      }
+    },
+    {
+      "id": "Ravi Ashwin_26_o8m03",
+      "name": "Ravi Ashwin",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 160
+      }
+    },
+    {
+      "id": "Mitchell Marsh_27_m31g9",
+      "name": "Mitchell Marsh",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 159.6855625
+      }
+    },
+    {
+      "id": "Cameron Green_28_yxd8v",
+      "name": "Cameron Green",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 159.37237499999998
+      }
+    },
+    {
+      "id": "Michael Bracewell_29_74n80",
+      "name": "Michael Bracewell",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 157.85625000000002
+      }
+    },
+    {
+      "id": "Sikandar Raza_30_j9wok",
+      "name": "Sikandar Raza",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 147.74562500000002
+      }
+    },
+    {
+      "id": "Rajvardhan Hangargekar_31_ca8yf",
+      "name": "Rajvardhan Hangargekar",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 146.875
+      }
+    },
+    {
+      "id": "Swapnil Singh_32_5fhsr",
+      "name": "Swapnil Singh",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 143.295875
+      }
+    },
+    {
+      "id": "Will Jacks_33_dddua",
+      "name": "Will Jacks",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 139.34762500000002
+      }
+    },
+    {
+      "id": "Wanindu Hasaranga_34_6547o",
+      "name": "Wanindu Hasaranga",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 136.50875000000002
+      }
+    },
+    {
+      "id": "Glenn Maxwell_35_l9n5c",
+      "name": "Glenn Maxwell",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 134.8719375
+      }
+    },
+    {
+      "id": "Moeen Ali_36_yamgc",
+      "name": "Moeen Ali",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 128.99875
+      }
+    },
+    {
+      "id": "Lalit Yadav_37_qyj3m",
+      "name": "Lalit Yadav",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 126.158
+      }
+    },
+    {
+      "id": "Kyle Jamieson_38_xtxxu",
+      "name": "Kyle Jamieson",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 121.75
+      }
+    },
+    {
+      "id": "Daryl Mitchell_39_0z9be",
+      "name": "Daryl Mitchell",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 116.886625
+      }
+    },
+    {
+      "id": "Nitish Kumar Reddy_40_gn2qz",
+      "name": "Nitish Kumar Reddy",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 116.56525
+      }
+    },
+    {
+      "id": "Jason Holder_41_v24xc",
+      "name": "Jason Holder",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 114.7965625
+      }
+    },
+    {
+      "id": "Anukul Roy_42_j4yti",
+      "name": "Anukul Roy",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": true,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Uncapped Indian",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 108.7996875
+      }
+    },
+    {
+      "id": "Mitchell Santner_43_btxr7",
+      "name": "Mitchell Santner",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 107.6688125
+      }
+    },
+    {
+      "id": "Azmatullah Omarzai_44_xmcb1",
+      "name": "Azmatullah Omarzai",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 105.8603125
+      }
+    },
+    {
+      "id": "Liam Livingstone_45_4ptvy",
+      "name": "Liam Livingstone",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 92.7460625
+      }
+    },
+    {
+      "id": "Sam Curran_46_fdtog",
+      "name": "Sam Curran",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": 23.6629375
+      }
+    },
+    {
+      "id": "Washington Sundar_47_lv6pt",
+      "name": "Washington Sundar",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": -0.705937500000001
+      }
+    },
+    {
+      "id": "Marcus Stoinis_48_w5qox",
+      "name": "Marcus Stoinis",
+      "category": "All-Rounder",
+      "country": "Overseas",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Overseas All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": -33.65599999999999
+      }
+    },
+    {
+      "id": "Shahbaz Ahmed_49_3lcny",
+      "name": "Shahbaz Ahmed",
+      "category": "All-Rounder",
+      "country": "India",
+      "basePrice": 20000000,
+      "isUncapped": false,
+      "status": "Available",
+      "rating": 85,
+      "soldTo": null,
+      "soldPrice": 0,
+      "originalRole": "All-rounder",
+      "auctionSet": "Indian All-rounder",
+      "stats": {
+        "battingScore": 0,
+        "bowlingScore": 0,
+        "allrounderScore": -49.8659375
+      }
+    }
+  ]
+}
